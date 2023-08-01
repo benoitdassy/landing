@@ -1,0 +1,9 @@
+.content-block {
+  display: flex;
+  align-items: center;
+}
+
+.content-block img {
+  height: 500px;
+  margin: 30px 25px;
+}

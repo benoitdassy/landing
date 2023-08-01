@@ -1,0 +1,24 @@
+.footer {
+  background-color: #88ecc0;
+  height: 300px;
+  padding: 15px auto;
+}
+
+.footer i{
+  color: white;
+}
+
+.list-inline > li {
+  display: inline-block;
+  font-size: 50px;
+  padding:0px 20px ;
+}
+
+.list-inline{
+  padding: 0px;
+}
+
+.footer-content{
+  text-align: center;
+  padding-top: 20px;
+}
